@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
